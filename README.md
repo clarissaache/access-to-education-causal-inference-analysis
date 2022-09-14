@@ -7,4 +7,4 @@ To achieve this objective, this anlysis compared primary school enrollment of gi
 <br>
 This analysis did not reveal a significant average effect in the enrollment rate in school for girls TTP influenced cities. A thorough discussion of the challenges faced using the PSLM Survey has been outlined in the full report. Some of these limitation include missing and varied data across years, which could explain the absence of the treatment effect that we expect to see in our study.
 
-Please see the content of this analysis in presentation slides [here] (https://github.com/clarissaache/access-to-education-causal-inference-analysis/blob/22b46c603b16ac909b6b585d7388f02c7ec6e006/40-docs/Final_presentations_V_final.pdf).
+Please see the content of this analysis in presentation slides [here](https://github.com/clarissaache/access-to-education-causal-inference-analysis/blob/22b46c603b16ac909b6b585d7388f02c7ec6e006/40-docs/Final_presentations_V_final.pdf).
